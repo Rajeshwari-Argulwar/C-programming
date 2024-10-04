@@ -6,7 +6,7 @@ This repository contains a variety of C programs to practice basic concepts. It 
 
 I'm a Computer Science student passionate about learning new things, especially in the field of programming. My goal is to strengthen my understanding of C programming by solving a wide range of problems. This repository is part of my journey in improving my coding skills.
 
-## Programs Covered
+## Programs Want to Cover
 
 - Basic Input/Output
 - Loops and Control Structures
